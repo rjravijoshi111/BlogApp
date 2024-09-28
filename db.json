@@ -1,0 +1,15 @@
+{
+    "users": [
+      { "id": "1", "username": "testuser", "password": "password123" }
+    ],
+    "blogs": [
+      {
+        "id": "1",
+        "title": "Sample Blog Post 1",
+        "image": "https://picsum.photos/seed/1/600/400",
+        "excerpt": "This is a brief summary of blog post 1.",
+        "content": "This is the full content of blog post 1."
+      }
+    ]
+  }
+  
