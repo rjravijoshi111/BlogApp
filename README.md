@@ -2,7 +2,7 @@
 
 <img src="src/assets/logo.png" alt="BlogApp Logo" width="200" height="200" />
 
-**BlogApp** is a React Native application built with TypeScript that allows authenticated users to view blog posts. The app features a seamless user experience with tab navigation and state persistence, ensuring that your data remains intact across sessions.
+**BlogApp** is a React Native application built with TypeScript that allows authenticated users to view blog posts. The app features a seamless user experience and state persistence, ensuring that your data remains intact across sessions.
 
 ## Features
 
